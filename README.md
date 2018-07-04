@@ -1,5 +1,9 @@
 # markerAR
 
+Marker basati su ar.js e three.js
+https://github.com/jeromeetienne/ar.js
+https://threejs.org/
+
 Generatore Marker
 https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
 
