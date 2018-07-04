@@ -1,11 +1,11 @@
 # markerAR
-This repo contains 5 AR markers and scene made for the treasure hunt on telegram #seguiloscoiattolo (www.seguiloscoiattolo.com).
+This repo contains 5 AR markers and scenes made for the treasure hunt on telegram #seguiloscoiattolo (www.seguiloscoiattolo.com).
 
-The example are based on:
+The examples are based on:
 * ar.js - https://github.com/jeromeetienne/AR.js
 * three.js - https://threejs.org/
 
-The 3d models are loaded via file.gltf
+The 3d models are loaded via .gltf file
 * three.js docs - https://threejs.org/docs/#examples/loaders/GLTFLoader
 * glTF-Blender-Exporter - https://github.com/KhronosGroup/glTF-Blender-Exporter
 
